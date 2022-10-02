@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pan-de1v&show_icons=true&locale=en&layout=compact" alt="pan-de1v" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan-de1v&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan-de1v&show_icons=true&theme=merko)
