@@ -8,8 +8,8 @@
 <p align="center">
   <a><img src="./box-javascript.png" width="150" /></a>
   <a><img src="./box-java.png" width="150" /></a>
-  <a><img src="./box-HTML.png" width="150" /></a>
-  <a><img src="./box-CSS.png" width="150" /></a>
+  <a><img src="./box-html.png" width="150" /></a>
+  <a><img src="./box-css.png" width="150" /></a>
   <a><img src="./box-csharp.png" width="150" /></a>
 </p>
 
