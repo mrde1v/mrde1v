@@ -19,7 +19,7 @@ Programming Languages: `[ C/C++, C#, Go, JavaScript ]`
 ###
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=mrde1v&show_icons=true&theme=tokyonight"> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=mrde1v&langs_count=5&layout=compact&theme=tokyonight">
+  <img width="250" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=mrde1v&show_icons=true&theme=tokyonight"> <img width="250" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=mrde1v&langs_count=5&layout=compact&theme=tokyonight">
 </div>
 
 ###
