@@ -8,7 +8,7 @@
 
 <p align="left"><br>- 💻 I’m working as a software engineer<br>- ⚡ Learning and Creating Anti-DDoS</p>
 
-Programming Languages: `[ C/C++, C#, Go,  ]`
+Programming Languages: `[ C/C++, C#, Go, JavaScript ]`
 
 -  if you wanna contact me, hit me on discord: de1v
 
